@@ -13,3 +13,4 @@ while x!=2:
         y+=transfer
     print("jug1:",x,"jug2:",y)
 print("target reached")
+
